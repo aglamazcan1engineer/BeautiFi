@@ -1,16 +1,25 @@
-# beautifi
+# Project Name : BeautiFi
 
-A new Flutter project.
 
-## Getting Started
+## Project Description
+BeautiFi is an innovative social media app powered by artificial intelligence.
 
-This project is a starting point for a Flutter application.
+## Features
+- Feature 1 : Artificial intelligence-supported clothing, makeup, personal care and many more
+- Feature 2 : A shopping section selling thousands of products, especially those recommended by artificial intelligence.
+- Feature 3 : Video, image and text sharing.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+## Contact
+www.linkedin.com/in/ahmet-can-ağlamaz
+
+
+
+
